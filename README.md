@@ -1,2 +1,2 @@
-#Customization-git bash
-Commands for git bash
+# Customization-git bash
+Команды для git bash
