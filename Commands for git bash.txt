@@ -45,4 +45,4 @@ git remote add origin https://github.com/username/myproject.git
 
 “еперь можно выполнить команду git push, чтобы отправить все ваши изменени€ на удаленный репозиторий:
 
-git push -u origin master
+git push -u origin master.
