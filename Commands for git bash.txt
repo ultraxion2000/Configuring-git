@@ -10,7 +10,7 @@ git config --global core.autocrlf false
 git config --global core.eol lf
 
 2 шаг: клонируем репозиторий
-mkdir C:/(название папки)/ #cоздаем папку на диске C (если Windows)
+mkdir C:/(название папки)/  #cоздаем папку на диске C (если Windows)
 git clone https://github.com/user/title-repository # копируем свой репозиторий на компьютер
 cd title-repository/ #заходим в локальный репозиторий
 
